@@ -1,0 +1,124 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Cache directories
+vision_cache/
+vector_databases/
+ragas_cache/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+.coverage
+htmlcov/
+.coverage.*
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+*.7z
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Frontend build
+dist/
+build/
+.next/
+out/
+.cache/
+
+# Exported data (can be regenerated)
+exported_data/
+structured_data/
+
+# Specific project caches
+IDP_India/Modularized/exported_data/
+IDP_India/Modularized/logs/
+IDP_India/Modularized/structured_data/
+IDP_India/Modularized/vector_databases/
+IDP_India/Modularized/vision_cache/
+IDP_India_With_Agents/logs/
+IDP_India_With_Agents/structured_data/
+IDP_India_With_Agents/vector_databases/
+IDP_India_With_Agents/vision_cache/
+IDP_With_Agents/IDP_India_With_Agents_Unified/exports/
+IDP_With_Agents/IDP_India_With_Agents_Unified/logs/
+IDP_With_Agents/IDP_India_With_Agents_Unified/structured_data/
+IDP_With_Agents/IDP_India_With_Agents_Unified/vector_databases/
+IDP_With_Agents/IDP_India_With_Agents_Unified/vision_cache/
+SSA_India_IDP/logs/
+SSA_India_IDP/structured_data/
+SSA_India_IDP/vector_databases/
+SSA_India_IDP/vision_cache/

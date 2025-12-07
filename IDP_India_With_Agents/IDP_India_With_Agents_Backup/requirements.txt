@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+PyMuPDF
+python-dotenv
+langchain-openai
+langchain-community
+Pillow
+azure-openai
